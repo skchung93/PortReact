@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PortReact/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/PortReact/static/js/main.6e13c42b.chunk.js",
+    "main.js.map": "/PortReact/static/js/main.6e13c42b.chunk.js.map",
+    "runtime-main.js": "/PortReact/static/js/runtime-main.3291b479.js",
+    "runtime-main.js.map": "/PortReact/static/js/runtime-main.3291b479.js.map",
+    "static/js/2.f8b94645.chunk.js": "/PortReact/static/js/2.f8b94645.chunk.js",
+    "static/js/2.f8b94645.chunk.js.map": "/PortReact/static/js/2.f8b94645.chunk.js.map",
+    "index.html": "/PortReact/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/PortReact/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f8b94645.chunk.js.LICENSE.txt": "/PortReact/static/js/2.f8b94645.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3291b479.js",
+    "static/js/2.f8b94645.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6e13c42b.chunk.js"
+  ]
+}
